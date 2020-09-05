@@ -11,5 +11,33 @@
 "wtypeid":"03",
 "wtypename":"BOXN"
 }               
-]
+],
+  "rakeIndicator": [
+    {
+      "rid": "01",
+      "rname": "10"
+    },
+    {
+      "rid": "02",
+      "rname": "21"
+    },
+    {
+     "rid": "03",
+     "rname": "24"
+    }
+  ],
+  "rmCd": [
+    {
+      "rmid": "01",
+      "rmcd": "10"
+    },
+    {
+      "rmid": "02",
+      "rmcd": "21"
+    },
+    {
+     "rmid": "03",
+     "rmcd": "24"
+    }
+  ]
 }
