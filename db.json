@@ -12,20 +12,7 @@
 "wtypename":"BOXN"
 }               
 ],
-  "rakeIndicator": [
-    {
-      "rid": "01",
-      "rname": "10"
-    },
-    {
-      "rid": "02",
-      "rname": "21"
-    },
-    {
-     "rid": "03",
-     "rname": "24"
-    }
-  ],
+  
   "rmCd": [
     {
       "rmid": "01",
