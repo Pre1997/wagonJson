@@ -1,0 +1,15 @@
+{
+"wagonType":[{
+"wtypeid":"01",
+"wtypename":"BOST"
+},
+{
+"wtypeid":"02",
+"wtypename":"BOBSN"
+},  
+{
+"wtypeid":"03",
+"wtypename":"BOXN"
+}               
+]
+}
