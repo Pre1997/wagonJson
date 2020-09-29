@@ -49,7 +49,7 @@
       "locoBack":"02567",
        "fromYard":"abc",
       "toYard":"abc",
-      "clearTime":"2020-08-02 08:04:50"
+      "clearTime":"2020-08-02 08:04:50",
       "trainDate":"2020-08-02",
       "lineNo":"01",
       "destination":"Jsr"
@@ -78,7 +78,7 @@
       "locoBack":"02567",
        "fromYard":"abc",
       "toYard":"abc",
-      "clearTime":"2020-08-02 08:04:50"
+      "clearTime":"2020-08-02 08:04:50",
       "trainDate":"2020-08-02",
       "lineNo":"01",
       "destination":"Jsr"
