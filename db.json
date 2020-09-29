@@ -35,7 +35,25 @@
       "dmoTime":"2020-09-05 16:50:07",
       "indicator":"Y",
       "yard":"Y1",
-      "remarks":"abc"
+      "remarks":"abc",
+      "owningRly":"Indian Railway",
+      "wgnType":"BOXN",
+      "rakeInd":"10",
+      "rmCd":"24",
+      "rmDescription":"xyz",
+      "wagonSequence":"1",
+      "inPilotNo":"123",
+      "inPilotDate":"2020-08-02",
+     "pullThrough":"abc",
+      "locoFront":"014567",
+      "locoBack":"02567",
+       "fromYard":"abc",
+      "toYard":"abc",
+      "clearTime":"2020-08-02 08:04:50"
+      "trainDate":"2020-08-02",
+      "lineNo":"01",
+      "destination":"Jsr"
+      
     } 
   ],
   "0234":[
@@ -47,6 +65,23 @@
       "indicator":"Y",
       "yard":"Y2",
       "remarks":"abc"
+      "owningRly":"Indian Railway",
+      "wgnType":"BOST",
+      "rakeInd":"24",
+      "rmCd":"21",
+      "rmDescription":"abcdef",
+      "wagonSequence":"1",
+      "inPilotNo":"123",
+      "inPilotDate":"2020-08-02",
+     "pullThrough":"abc",
+      "locoFront":"014567",
+      "locoBack":"02567",
+       "fromYard":"abc",
+      "toYard":"abc",
+      "clearTime":"2020-08-02 08:04:50"
+      "trainDate":"2020-08-02",
+      "lineNo":"01",
+      "destination":"Jsr"
     }
   ],
   "-1":[
